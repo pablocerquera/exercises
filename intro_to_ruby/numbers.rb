@@ -11,7 +11,8 @@ when num <= 100
 else
   puts "your number is too big"
 end
-# Snippet 3
+
+
 y = 9
 x = 10
 if (x + 1) <= (y)
