@@ -1,4 +1,4 @@
-x = "".upcase
+x = ""
 
 while x != "STOP" do
   puts "hi how is it going?"
